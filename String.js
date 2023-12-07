@@ -18,7 +18,11 @@ let firstName="  harshit   ";
 console.log(firstName.length);
 //  we can do trim string in two ways 
 //  1 is this 
- let newString= firstName.trim();
- console.log(newString);
- console.log(newString.length);
+//  let newString= firstName.trim();
+//  console.log(newString);
+//  console.log(newString.length);
 
+//  second way 
+ firstName=firstName.trim();
+ console.log(firstName);
+ console.log(firstName.length);
