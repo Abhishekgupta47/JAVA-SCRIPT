@@ -19,6 +19,6 @@ console.log(firstName.length);
 //  we can do trim string in two ways 
 //  1 is this 
  let newString= firstName.trim();
- console.log(newString)
+ console.log(newString);
  console.log(newString.length);
 
