@@ -13,9 +13,9 @@
 
 //  trim()
 
-let firstName="  harshit   ";
+// let firstName="harshit";
  
-console.log(firstName.length);
+// console.log(firstName.length);
 //  we can do trim string in two ways 
 //  1 is this 
 //  let newString= firstName.trim();
@@ -23,6 +23,15 @@ console.log(firstName.length);
 //  console.log(newString.length);
 
 //  second way 
- firstName=firstName.trim();
- console.log(firstName);
- console.log(firstName.length);
+//  firstName=firstName.trim();
+//  console.log(firstName);
+//  console.log(firstName.length);
+
+
+//  toUpperCase()
+ 
+let firstName="krisHna"
+// console.log(firstName.toLocaleUpperCase());
+
+// toLowercase
+ console.log(firstName.toLocaleLowerCase());
