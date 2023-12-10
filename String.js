@@ -37,7 +37,7 @@
 //  console.log(firstName.toLocaleLowerCase());
 
 // slice()
-  let newString1="Abhishek"
+  let newString1="Abhishek";
   console.log(newString1);
  let newString2=newString1.slice(0,4);
  console.log(newString2);
