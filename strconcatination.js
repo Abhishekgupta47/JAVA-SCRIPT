@@ -14,4 +14,10 @@
 //  console.log(aboutMe);
 
 
-console.log(typeof null);
+// console.log(typeof null);
+
+//  BigInt
+ let myNumber = BigInt(123142536474846753536);
+ console.log(myNumber);
+
+//  console.log(number.MAX_SAFE_INTEGER);
