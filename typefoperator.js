@@ -1,14 +1,18 @@
 // type of operator 
- let age =22;
- let firstName="Abhishek Gupta"
- console.log(typeof age);
- console.log(typeof firstName);
+//  let age =22;
+//   let firstName="Abhishek Gupta"
+//  console.log(typeof age);
+//  console.log(typeof firstName);
 
 
-//   convert number to string
+//    convert number to string
 
-console.log(typeof (age + ""));
+//  console.log(typeof (age + ""));
 
-// convert string to number
- let myStr =+"34";
- console.log(typeof myStr);
+//  convert string to number
+//   let myStr =+"34";
+//   console.log(typeof myStr);
+
+// let age =18;
+// age=string(age);
+// console.lpog(typeof age);
