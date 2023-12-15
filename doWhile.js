@@ -6,3 +6,5 @@ do{
   i++;
 }
 while(i<=9)
+
+//  although the condtion is wrong still do loop will be execute once 
