@@ -21,3 +21,4 @@
  console.log(myNumber);
 
 //  console.log(number.MAX_SAFE_INTEGER);
+
