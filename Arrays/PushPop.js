@@ -17,6 +17,17 @@ console.log(fruits);
 
 
 //  shift / unsift
+
+// unsift
+
+
 //  fruits.unshift("mango");
 //  fruits.unshift("myfruit");
 //  console.log(fruits);
+
+//  shift
+
+// fruits.shift()
+console.log(fruits.shift());
+console.log(fruits);
+
