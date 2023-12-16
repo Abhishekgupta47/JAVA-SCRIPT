@@ -14,3 +14,4 @@ console.log(typeof mixed);
 let obj={};
 console.log(Array.isArray(fruits));
 console.log(Array.isArray(obj));
+
