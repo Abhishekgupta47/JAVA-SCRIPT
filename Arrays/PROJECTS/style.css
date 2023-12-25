@@ -56,6 +56,12 @@ body{
   font-size: 32px;
   font-weight: 700;
 }
+.home-content h3:nth-last-of-type(2){
+
+}
+.home-content h3 span{
+  color: #0ef;
+}
 .home-content h1{
   font-size: 56px;
   font-weight: 700;
