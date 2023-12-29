@@ -241,7 +241,7 @@ body{
   transform: translateY(-10px);
 }
 
- section{
+  section{
   display: flex;
   flex-wrap: wrap;
 }
@@ -262,7 +262,7 @@ body{
   font-size: 25px;
 }
 
-
+ 
 
 
 
