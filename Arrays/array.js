@@ -7,7 +7,7 @@ let fruits=["apple","banana","grapes","orange"];
  let numbers=[1,2,3,4];
  console.log(fruits);
  console.log(numbers);
-//   we can add more tghan data type value in js arra
+//   we can add more than data type value in js array
 let mixed =[1,2,2.4,"siyaRam",null,undefined];
 console.log(mixed);
 console.log(typeof mixed);
