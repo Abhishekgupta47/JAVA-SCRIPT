@@ -264,7 +264,18 @@ body{
 .technical-bars .bar{
    margin-top: 40px 0;
 }
-.technical-bars
+.technical-bars .bar:first-child{
+  margin-top: 0;
+}
+.technical-bars .bar:last-child{
+   margin-bottom: 0;
+}
+.technical-bars .bar .info{
+   margin-bottom: 5px;
+}
+.technical-bars .bar .info span{
+  
+}
 
  
 
